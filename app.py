@@ -20,6 +20,6 @@ stores = [
 def get_stores():
     return {"stores": stores}
 
-@app.get('/test')
+@app.get('/')
 def test():
-    return "<h1>LAB 2 <strong/>Finish</h1>"
+    return "<h1>LAB 2 inish</h1>"
