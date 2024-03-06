@@ -21,5 +21,5 @@ def get_stores():
     return {"stores": stores}
 
 @app.get('/test')
-def get_stores():
+def test():
     return "<h1>LAB 2 <strong/>Finish</h1>"
