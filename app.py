@@ -22,4 +22,4 @@ def get_stores():
 
 @app.get('/')
 def test():
-    return "<h1>LAB 2 inish</h1>"
+    return "<h1>LAB 2 Finish</h1>"
